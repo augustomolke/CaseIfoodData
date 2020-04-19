@@ -14,4 +14,4 @@ It consists of:
 3-Segmentation.ipynb: workbook that propose a customers segmentation;
 
 
-4-A short business preentation.
+4-A short business presentation.
